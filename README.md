@@ -18,12 +18,11 @@ Visualization: Tools to visualize the results and performance.
 ## Code and Implementation
 ### Vehicle Detection- 
 #### [vehicle-detection.ipynb](https://github.com/Arya202004/Vehicle-Cut-in-Detection/blob/main/vehicle-detection.ipynb)
-![vehicle1.jpg](Vehicle_cut_in_detection\vehicle-detection\vehicle1.jpg)
-![vehicle2.jpg](Vehicle_cut_in_detection\vehicle-detection\vehicle2.jpg)
+![vehicle1.jpg](./vehicle-detection/vehicle1.jpg)
+![vehicle2.jpg](./vehicle-detection/vehicle2.jpg)
 
 ### Lane Detection-
 #### [lane-detection.py](https://github.com/Arya202004/Vehicle-Cut-in-Detection/blob/main/lane-detection.py)
-![lane1.jpg](Vehicle_cut_in_detection\lane-detection\lane1.jpg)
-![lane2.png](Vehicle_cut_in_detection\lane-detection\lane2.png)
+![lane1.jpg](./lane-detection/lane1.jpg)
+![lane2.png](./lane-detection/lane2.png)
 
-[![Watch the video](Vehicle_cut_in_detection\lane-detection\lane2.png)](Vehicle_cut_in_detectionlane-detection\Lane_Detection_Example-video.mp4)
