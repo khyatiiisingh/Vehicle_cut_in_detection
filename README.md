@@ -33,7 +33,7 @@ Forward and Backward Pass: Compute loss, perform backpropagation, and update wei
 
 Logging: Track training progress and losses.
 
-![train_graph.png](./image/train_graph.png)
+![train_graph.png](./images/train_graph.png)
 
 
 **5.Model Saving:**
