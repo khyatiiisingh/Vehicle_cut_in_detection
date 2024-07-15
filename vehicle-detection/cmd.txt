@@ -1,0 +1,11 @@
+For model training:
+python3 train_ssd.py --dataset-type=voc --data=data/model0110/ --model-dir=models/model3--batch-size=2 --workers=5 --epochs=500
+
+
+For result and finding best epoch:
+python3 result.py
+
+For using best checkpoint(weights) to predict on test images:
+python3 eval_ssd.py --net mb1-ssd --model models\model3\mb1-ssd-Epoch-156-Loss-1.6729387044906616.pth --dataset_type voc --dataset data\model0110 --label_file data\model0110\labels.txt --eval_dir models/eval_results
+
+to visualize the prediction of test images run the 2nd cell of visualize.ipynb
