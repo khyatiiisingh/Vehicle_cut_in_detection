@@ -26,5 +26,3 @@ Visualization: Tools to visualize the results and performance.
 ![lane1.jpg](./lane-detection/lane1.jpg)
 ![lane2.png](./lane-detection/lane2.png)
 
-[![Watch the video]](./lane-detection/Lane_Detection_Example-video.mp4)
-
