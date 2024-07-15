@@ -195,12 +195,10 @@ The code successfully detects and highlights lane lines in a video stream by app
 
 ## Code and Implementation
 ### Vehicle Detection- 
-#### [vehicle-detection.ipynb](https://github.com/Arya202004/Vehicle-Cut-in-Detection/blob/main/vehicle-detection.ipynb)
 ![vehicle1.jpg](./vehicle-detection/vehicle1.jpg)
 ![vehicle2.jpg](./vehicle-detection/vehicle2.jpg)
 
 ### Lane Detection-
-#### [lane-detection.py](https://github.com/Arya202004/Vehicle-Cut-in-Detection/blob/main/lane-detection.py)
 ![lane1.jpg](./lane-detection/lane1.jpg)
 ![lane2.png](./lane-detection/lane2.png)
 
