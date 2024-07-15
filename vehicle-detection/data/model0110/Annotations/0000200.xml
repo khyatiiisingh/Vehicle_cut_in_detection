@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation><folder>JPEGImages</folder><filename>0000200.jpg</filename><size><width>1920</width><height>1080</height><depth>3</depth></size><object><name>vehicle</name><bndbox><xmin>1556</xmin><ymin>637</ymin><xmax>1919</xmax><ymax>1062</ymax></bndbox></object><object><name>vehicle</name><bndbox><xmin>626</xmin><ymin>546</ymin><xmax>738</xmax><ymax>612</ymax></bndbox></object><object><name>vehicle</name><bndbox><xmin>0</xmin><ymin>706</ymin><xmax>132</xmax><ymax>920</ymax></bndbox></object></annotation>
