@@ -48,9 +48,9 @@ Prepare a separate validation dataset.
 
 **2.Evaluation Metrics:**
 
-Loss Calculation:** Compute loss on the validation dataset.
+Loss Calculation: Compute loss on the validation dataset.
 
-Mean Average Precision (mAP):** The detection performance was evaluated with an mAP of 0.643. The model was trained and evaluated using a batch size of 32 over 200 epochs.
+Mean Average Precision (mAP): The detection performance was evaluated with an mAP of 0.643. The model was trained and evaluated using a batch size of 32 over 200 epochs.
 
 
 ![vehicle1.jpg](./images/vehicle1.jpg)
@@ -142,9 +142,6 @@ The code successfully detects and highlights lane lines in a video stream by app
 **This process ensures effective lane detection for both static images and videos using computer vision techniques.**
 
 
-
-
-**
 
 **Future Directions:**
 
